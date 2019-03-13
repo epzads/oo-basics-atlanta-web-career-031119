@@ -18,8 +18,8 @@ def size=(size)
   @size = "9.5" 
 end   
   
-def color=(color)
+#def color=(color)
   
-@color = color    
-end   
+#@color = color    
+3end   
 end 
