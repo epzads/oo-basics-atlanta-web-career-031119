@@ -18,7 +18,7 @@ def size=(size)
   @size = "9.5" 
 end   
   
-def color=
+def color=(color)
   
 @color = color    
 end   
