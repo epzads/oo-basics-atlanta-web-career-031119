@@ -17,6 +17,6 @@ end
 
 def color=(color)
   
-@color = "red"   
+@color = color    
 end   
 end 
