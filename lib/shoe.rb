@@ -32,8 +32,9 @@ end
 
 def cobble
   
-  puts 
-
+  puts ""
+  
+end 
 
 def initialize(brand)
 
