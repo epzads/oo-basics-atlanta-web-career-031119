@@ -14,7 +14,7 @@ def brand(brand = "Nike")
   
 end   
 
-
+def size=
 def color=(color)
   
 @color = color    
