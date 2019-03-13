@@ -2,18 +2,18 @@
 
 class Shoe 
 
-attr_accessor
-:color
+#attr_accessor
+#:color
 
 def brand
 
 @brand 
 end   
 
-#def color =(color)
+def color = "red"
 
-#@color = color   
-#end   
+@color = color   
+end   
 
 def size=(num)
   
