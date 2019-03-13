@@ -14,4 +14,9 @@ def brand(brand = "Nike")
   
 end   
 
+
+def color(color = "red")
+  
+@color = color   
+end   
 end 
