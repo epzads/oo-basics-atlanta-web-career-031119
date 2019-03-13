@@ -19,7 +19,7 @@ def size=(num)
 @size = num 
 end 
 
-def material(material)
+def material=(material)
   
 @material = material  
 end   
