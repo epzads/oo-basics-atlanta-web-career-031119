@@ -15,7 +15,7 @@ def brand(brand = "Nike")
 end   
 
 
-def color
+def color=
   
 @color = "red"   
 end   
