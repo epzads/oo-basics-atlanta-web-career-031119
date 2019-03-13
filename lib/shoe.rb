@@ -4,7 +4,7 @@ class Shoe
 
 #attr_accessor
 
-def brand(brand_name)
+def brand
 
 @brand =brand_name  
 end   
