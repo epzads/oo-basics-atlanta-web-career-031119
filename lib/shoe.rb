@@ -20,6 +20,10 @@ end
   
 def color=(color)
   
-#@color = color    
-3end   
+@color = color    
+end   
+def color
+  
+@color
+end   
 end 
