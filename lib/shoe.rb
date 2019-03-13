@@ -8,7 +8,7 @@ def initialize(brand)
 
 end   
 
-def brand(brand = "default")
+def brand(brand = "nike")
   
   @brand = brand
   
