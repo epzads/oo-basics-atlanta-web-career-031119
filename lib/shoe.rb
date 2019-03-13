@@ -10,7 +10,7 @@ def brand
 @brand 
 end   
 
-def color = "red"
+def color = (color = "red")
 
 @color = color   
 end   
