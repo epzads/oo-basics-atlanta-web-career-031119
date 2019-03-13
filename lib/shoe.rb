@@ -15,7 +15,7 @@ def brand(brand = "Nike")
 end   
 
 def size=(size)
-  @size = 9.5 
+  @size = "9.5" 
 end   
   
 def color=(color)
