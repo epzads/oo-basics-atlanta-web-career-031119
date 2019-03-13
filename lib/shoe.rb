@@ -8,9 +8,9 @@ def initialize(brand)
 
 end   
 
-def brand(brand)
+def brand(brand = "default")
   
-  @brand 
+  @brand = brand
   
 end   
 
