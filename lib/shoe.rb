@@ -25,7 +25,7 @@ def material=(material)
 end   
 
 
-def condition(new)
+def condition=(new)
   
 @condition = new   
 end 
