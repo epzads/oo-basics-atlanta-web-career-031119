@@ -24,6 +24,17 @@ def material(material)
 @material = material  
 end   
 
+
+def condition(new)
+  
+@condition = new   
+end 
+
+def cobble
+  
+  puts 
+
+
 def initialize(brand)
 
 @brand = brand  
