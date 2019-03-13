@@ -3,7 +3,7 @@
 class Shoe 
 
 attr_accessor
-:color, :size, :material
+:color, :material
 
 def initialize(brand)
 
