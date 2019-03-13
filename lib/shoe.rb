@@ -10,10 +10,10 @@ def brand
 @brand 
 end   
 
-def color =(color)
+#def color =(color)
 
-@color = color   
-end   
+#@color = color   
+#end   
 
 def size=(num)
   
